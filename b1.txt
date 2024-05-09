@@ -1,0 +1,16 @@
+102
+ratings
+titanic
+usuarios
+id,name,date
+usuarios
+1,andres,20-05
+2,jose,19-04
+direccion
+id,id_user,direccion
+direccion
+1,1,socabaya
+direccion
+2,2,cayma
+usuarios
+3,damian,05-05

@@ -1,0 +1,13 @@
+8,2,10,128,90,1843200
+1
+DATABASE,1,2
+DATABASE,1,3
+TABLE,1,4
+RELATION,usuarios,1,5
+ROW,usuarios,1,7
+ROW,usuarios,1,8
+TABLE,1,9
+RELATION,direccion,1,10
+ROW,direccion,1,12
+ROW,direccion,1,14
+ROW,usuarios,1,16
